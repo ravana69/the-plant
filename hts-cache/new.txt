@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+12:50:08	44062/44062	---M-Z	200	added ('OK')	text/html	date:Fri,%2017%20Feb%202023%2007:19:23%20GMT	http://gateway.fxhash2.xyz/ipfs/QmXstCBG2diumog3PQ1Aa31vNyrgZe71enGga2KfG5jWsS/	C:/My%20Web%20Sites/test/gateway.fxhash2.xyz/ipfs/QmXstCBG2diumog3PQ1Aa31vNyrgZe71enGga2KfG5jWsS/index.html	(from )
+12:50:08	19/19	---M--	404	error ('Not%20Found')	text/plain	date:Fri,%2017%20Feb%202023%2007:20:07%20GMT	http://gateway.fxhash2.xyz/robots.txt		(from )
